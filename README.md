@@ -1,11 +1,11 @@
-![TEDxJMI logo](res/images/logos/light.png)
+![TEDxJMI logo](/public/res/images/logos/light.png)
 
 
 > Event website for TEDxGWHSchool 2020
 
 ## Screenshot
 
-![screenshot-2018-1-16](res/images/arrow-left-dark.png)
+![screenshot-2018-1-16](/public/res/images/arrow-left-dark.png)
 
 ## License
 
