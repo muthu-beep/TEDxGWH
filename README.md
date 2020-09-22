@@ -1,4 +1,4 @@
-![TEDxJMI logo](/public/res/images/logos/light.png)
+![TEDxGWH logo](/public/res/images/logos/light.png)
 
 
 > Event website for TEDxGWHSchool 2020
